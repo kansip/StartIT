@@ -1,0 +1,104 @@
+body{
+    background-image: url("../img/bg.jpg");
+    width: 100%; 
+    border-spacing: 0;
+    overflow-x:hidden;
+     background-attachment: fixed;
+}
+h1{
+    color:white;
+}
+footer{
+
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+    padding:50px;
+    
+}
+#header-text{
+    color:white;
+    font-size: 20px;
+}
+a{
+    color:white;
+}
+a:hover { 
+    text-decoration: none; /* Добавляем подчеркивание при наведении курсора на ссылку */
+    color: white; /* Ссылка красного цвета */
+   } 
+#start-logo{
+    margin-top:130px;
+    height: 500px;
+}
+
+#logo-text{
+    color:white;
+    margin-top: 300px;
+    font-size: 35px;
+    width: 10px;
+}
+
+.information{
+    font-size: 25px;
+    color: white;
+    margin-top: 100px;
+}
+
+#coding{
+    margin-top: 40px;
+    height: 400px;
+    width: 400px;
+}
+#contact{
+    background: rgb(94,154,1);
+background: linear-gradient(242deg, rgba(94,154,1,1) 0%, rgba(3,87,103,1) 54%, rgba(64,2,88,1) 100%);
+    color: white;
+    margin-top: 20px;
+}
+
+#form-title{
+    text-align: center;
+    font-size: 25px;
+    padding-top:20px;
+}
+
+#map {
+    width: 500px; 
+    height: 500px; 
+    padding: 0; 
+    margin: auto;
+    margin-top: 50px;
+}
+#mapa{
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+#adress{
+    font-size: 23px;
+}
+
+
+.news{
+    margin-top:40px;
+    color:white;
+}
+
+.title{
+    color:white;
+}
+.text{
+    color:white;
+}
+
+.pagination{
+    font-size: 30px;
+    text-align: center;
+      
+}
